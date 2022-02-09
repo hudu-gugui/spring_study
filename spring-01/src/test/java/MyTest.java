@@ -15,4 +15,8 @@ public class MyTest {
 //        System.out.println(student.getName());
         System.out.println(student);
     }
+    @Test
+    public void test2() {
+        System.out.println("test");
+    }
 }
